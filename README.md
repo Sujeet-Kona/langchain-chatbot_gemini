@@ -1,1 +1,6 @@
-# langchain-chatbot_gemini
+🤖 Sujith LangChatbot
+
+A beginner-friendly AI chatbot built using:
+LangChain
+Google Gemini API
+Streamlit
