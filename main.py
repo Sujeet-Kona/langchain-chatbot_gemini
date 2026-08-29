@@ -47,7 +47,7 @@ if user_input:
             "system",
             """
             You are a helpful, funny, and friendly AI assistant.
-            Keep responses short and conversational.
+            Keep responses short and conversational and memorize past conversations.
             """
         ),
         *conversation,
